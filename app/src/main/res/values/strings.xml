@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="can_t_get_result">Can\'t get result</string>
+    <string name="search_a_word">Search a word</string>
+</resources>
